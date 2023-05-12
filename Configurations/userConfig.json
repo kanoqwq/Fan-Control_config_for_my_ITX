@@ -29,7 +29,7 @@
         "ManualControlValue": 100,
         "MatchingFanSensor": {
           "Identifier": "/lpc/nct6795d/fan/1",
-          "IsHidden": false,
+          "IsHidden": true,
           "Name": "Fan #2",
           "NickName": "Fan #2"
         },
@@ -52,7 +52,7 @@
         "ManualControlValue": 50,
         "MatchingFanSensor": {
           "Identifier": "/lpc/nct6795d/fan/2",
-          "IsHidden": false,
+          "IsHidden": true,
           "Name": "Fan #3",
           "NickName": "Fan #3"
         },
@@ -166,13 +166,13 @@
       },
       {
         "Identifier": "/lpc/nct6795d/fan/1",
-        "IsHidden": false,
+        "IsHidden": true,
         "Name": "Fan #2",
         "NickName": "Fan #2"
       },
       {
         "Identifier": "/lpc/nct6795d/fan/2",
-        "IsHidden": false,
+        "IsHidden": true,
         "Name": "Fan #3",
         "NickName": "Fan #3"
       },

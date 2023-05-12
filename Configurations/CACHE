@@ -4,12 +4,12 @@
     "DisablePopupVersionNumber": 154
   },
   "Main": {
-    "DisableDonationPopup": false,
+    "DisableDonationPopup": true,
     "FirstLaunch": false,
     "Height": 809.0,
-    "Left": 695.0,
-    "PopupShownDateTime": "0001-01-01T00:00:00",
-    "Top": 118.0,
+    "Left": 388.0,
+    "PopupShownDateTime": "2023-05-12T17:44:38.4823262+08:00",
+    "Top": 93.0,
     "Width": 1127.0,
     "WindowState": 0
   }
